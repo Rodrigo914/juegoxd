@@ -1,0 +1,23 @@
+{
+  "name": "juegoxd",
+  "version": "1.0.0",
+  "description": "Typescript Smake Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigo914/juegoxd.git"
+  },
+  "author": "Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodrigo914/juegoxd/issues"
+  },
+  "homepage": "https://github.com/Rodrigo914/juegoxd#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
